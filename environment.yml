@@ -1,0 +1,21 @@
+name: AA  # Name of the environment
+channels:
+  - conda-forge  # Channel for additional packages
+  - defaults     # Default Conda channel
+dependencies:
+  - python=3.11
+  - pip          
+  - ipython      
+  - jupyter     
+  - jupyterlab   
+  - pandas       
+  - numpy        
+  - matplotlib   
+  - seaborn      # Statistical data visualization
+  - scipy        # Scientific computing
+  - scikit-learn # Machine learning library  
+  - pip:
+      - sidetable    
+      - torch        
+      - keras        
+     
