@@ -11,9 +11,10 @@ dependencies:
   - pandas       
   - numpy        
   - matplotlib   
-  - seaborn      # Statistical data visualization
-  - scipy        # Scientific computing
-  - scikit-learn # Machine learning library  
+  - seaborn     
+  - scipy      
+  - scikit-learn 
+  - tensorflow 
   - pip:
       - sidetable    
       - torch        
