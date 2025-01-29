@@ -29,7 +29,7 @@ To run the notebook and replicate our results, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/DataDynamos.git
+   git clone https://github.com/Zeyd263/DataDynamos.git
    cd DataDynamos
    ```
 
